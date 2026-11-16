@@ -1,0 +1,6 @@
+[project]
+name = "zip-safety-check"
+version = "0.1.0"
+description = "Inspect ZIP archives for path traversal names, absolute paths, symlinks, duplicate destinations, and suspicious expansion ratios without extracting files."
+requires-python = ">=3.10"
+license = "MIT"
